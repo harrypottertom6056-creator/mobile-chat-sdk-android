@@ -261,5 +261,7 @@ try! HubspotManager.configure()
 
 return true
 }
-
+binding.anybutton.setOnClickListener {
+    startActivity(Intent(requireContext(), HubspotWebActivity::class.java))
+}
 }
