@@ -1,6 +1,6 @@
 {
-  "portalId": "",
-  "hublet": "",
-  "environment": "",
-  "defaultChatFlow": ""
+  "portalId": "246206113",
+  "hublet": "na2",
+  "environment": "prod",
+  "defaultChatFlow": "Test-chatfolw"
 }
